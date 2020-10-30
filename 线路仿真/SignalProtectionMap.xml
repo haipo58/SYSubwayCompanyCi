@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SignalProtectionMap>
+  <KeyValuePair>
+    <Signal Name="S0105" ID="4" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="W0101" ID="0" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0106" ID="5" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="W0102" ID="1" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0107" ID="6" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="W0105" ID="4" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0108" ID="7" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="W0106" ID="5" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0109" ID="8" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="W0107" ID="6" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0111" ID="10" StationID="0" SwitchPosition="PosNormal" />
+    <Device Name="W0107" ID="6" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0301" ID="19" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="W0301" ID="7" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0304" ID="21" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="W0302" ID="8" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0110" ID="9" StationID="0" SwitchPosition="PosNormal" />
+    <Device Name="W01018" ID="9" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0112" ID="11" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="W01018" ID="9" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="TSJ1" ID="24" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="IG" ID="0" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="TSJ2" ID="25" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="IIG" ID="1" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0101" ID="0" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0101" ID="2" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0102" ID="1" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0102" ID="3" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0103" ID="2" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0103" ID="4" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0104" ID="3" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0104" ID="5" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0113" ID="12" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0111" ID="12" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S1014" ID="23" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0112" ID="13" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0202" ID="16" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0114" ID="14" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0201" ID="15" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0203" ID="17" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0204" ID="18" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0204" ID="18" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0203" ID="17" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0207" ID="21" StationID="0" />
+  </KeyValuePair>
+  <KeyValuePair>
+    <Signal Name="S0302" ID="20" StationID="0" SwitchPosition="PosNeither" />
+    <Device Name="T0208" ID="22" StationID="0" />
+  </KeyValuePair>
+</SignalProtectionMap>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RouteCreator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Route ID="0" Start="S0101_0" End="S0105_4" Change="null" Color="SignalGreen" Direction="DIRDOWN" Incoming="ZHG2_27 " In="T0101_2 T0103_4 T0105_6 " Leaving="ST010103_28(W0101_0) " InSwitches="" Positions="" 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="1" Start="S0102_1" End="S0106_5" Change="null" Color="SignalGreen" Direction="DIRDOWN" Incoming="ZHG1_26 " In="T0102_3 T0104_5 T0106_7 " Leaving="ST010204_29(W0102_1) " InSwitches="" Positions="" 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="2" Start="S0103_2" End="TSJ2_25" Change="null" Color="SignalGreen" Direction="DIRUP" Incoming="T0105_6 " In="T0103_4 T0101_2 ZHG2_27 " Leaving="IIG_1 " InSwitches="" Positions="" 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="3" Start="S0104_3" End="TSJ1_24" Change="null" Color="SignalGreen" Direction="DIRUP" Incoming="T0106_7 " In="T0104_5 T0102_3 ZHG1_26 " Leaving="IG_0 " InSwitches="" Positions="" 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="4" Start="S0105_4" End="S0109_8" Change="null" Color="SignalYellow" Direction="DIRDOWN" Incoming="T0105_6 " In="ST010103_28(W0101_0) ST010103_28(W0103_2) ST0105_30(W0105_4) T0107_8 " Leaving="ST0107_32(W0107_6) " InSwitches="DW0101_0 DW0103_2 DW0105_4 " Positions="PosNormal PosNormal PosReverse " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="5" Start="S0105_4" End="S0110_9" Change="null" Color="SignalYellow" Direction="DIRDOWN" Incoming="T0105_6 " In="ST010103_28(W0101_0) ST010204_29(W0104_3) ST0106_31(W0106_5) T0108_9 " Leaving="ST0108_35(W01018_9) " InSwitches="DW0101_0 DW0104_3 DW0106_5 " Positions="PosReverse PosReverse PosReverse " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="6" Start="S0106_5" End="S0109_8" Change="null" Color="SignalYellow" Direction="DIRDOWN" Incoming="T0106_7 " In="ST010204_29(W0102_1) ST010103_28(W0103_2) ST0105_30(W0105_4) T0107_8 " Leaving="ST0107_32(W0107_6) " InSwitches="DW0102_1 DW0103_2 DW0105_4 " Positions="PosReverse PosReverse PosReverse " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="7" Start="S0106_5" End="S0110_9" Change="null" Color="SignalYellow" Direction="DIRDOWN" Incoming="T0106_7 " In="ST010204_29(W0102_1) ST010204_29(W0104_3) ST0106_31(W0106_5) T0108_9 " Leaving="ST0108_35(W01018_9) " InSwitches="DW0102_1 DW0104_3 DW0106_5 " Positions="PosNormal PosNormal PosReverse " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="8" Start="S0107_6" End="S0103_2" Change="null" Color="SignalYellow" Direction="DIRUP" Incoming="T0107_8 " In="ST0105_30(W0105_4) ST010103_28(W0103_2) ST010103_28(W0101_0) T0105_6 " Leaving="T0103_4 " InSwitches="DW0105_4 DW0103_2 DW0101_0 " Positions="PosReverse PosNormal PosNormal " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="9" Start="S0107_6" End="S0104_3" Change="null" Color="SignalYellow" Direction="DIRUP" Incoming="T0107_8 " In="ST0105_30(W0105_4) ST010103_28(W0103_2) ST010204_29(W0102_1) T0106_7 " Leaving="T0104_5 " InSwitches="DW0105_4 DW0103_2 DW0102_1 " Positions="PosReverse PosReverse PosReverse " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="10" Start="S0108_7" End="S0103_2" Change="null" Color="SignalYellow" Direction="DIRUP" Incoming="T0108_9 " In="ST0106_31(W0106_5) ST010204_29(W0104_3) ST010103_28(W0101_0) T0105_6 " Leaving="T0103_4 " InSwitches="DW0106_5 DW0104_3 DW0101_0 " Positions="PosReverse PosReverse PosReverse " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="11" Start="S0108_7" End="S0104_3" Change="null" Color="SignalYellow" Direction="DIRUP" Incoming="T0108_9 " In="ST0106_31(W0106_5) ST010204_29(W0104_3) ST010204_29(W0102_1) T0106_7 " Leaving="T0104_5 " InSwitches="DW0106_5 DW0104_3 DW0102_1 " Positions="PosReverse PosNormal PosNormal " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="12" Start="S0109_8" End="S0113_12" Change="null" Color="SignalGreen" Direction="DIRDOWN" Incoming="T0107_8 " In="ST0107_32(W0107_6) T0109_10 " Leaving="T0111_12 " InSwitches="DW0107_6 " Positions="PosNormal " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="13" Start="S0109_8" End="S1014_23" Change="null" Color="SignalYellow" Direction="DIRDOWN" Incoming="T0107_8 " In="ST0107_32(W0107_6) ST0108_35(W01018_9) T0110_11 " Leaving="T0112_13 " InSwitches="DW0107_6 DW01018_9 " Positions="PosReverse PosReverse " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="14" Start="S0110_9" End="S1014_23" Change="null" Color="SignalGreen" Direction="DIRDOWN" Incoming="T0108_9 " In="ST0108_35(W01018_9) T0110_11 " Leaving="T0112_13 " InSwitches="DW01018_9 " Positions="PosNormal " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="15" Start="S0111_10" End="S0107_6" Change="null" Color="SignalGreen" Direction="DIRUP" Incoming="T0109_10 " In="ST0107_32(W0107_6) T0107_8 " Leaving="ST0105_30(W0105_4) " InSwitches="DW0107_6 " Positions="PosNormal " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="16" Start="S0112_11" End="S0107_6" Change="null" Color="SignalYellow" Direction="DIRUP" Incoming="T0110_11 " In="ST0108_35(W01018_9) ST0107_32(W0107_6) T0107_8 " Leaving="ST0105_30(W0105_4) " InSwitches="DW01018_9 DW0107_6 " Positions="PosReverse PosReverse " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="17" Start="S0112_11" End="S0108_7" Change="null" Color="SignalGreen" Direction="DIRUP" Incoming="T0110_11 " In="ST0108_35(W01018_9) T0108_9 " Leaving="ST0106_31(W0106_5) " InSwitches="DW01018_9 " Positions="PosNormal " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="18" Start="S0113_12" End="S0201_15" Change="null" Color="SignalGreen" Direction="DIRDOWN" Incoming="T0109_10 " In="T0111_12 T0201_15 " Leaving="T0203_17 " InSwitches="" Positions="" 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="19" Start="S0201_15" End="S0203_17" Change="null" Color="SignalGreen" Direction="DIRDOWN" Incoming="T0201_15 " In="T0203_17 T0205_19 " Leaving="T0207_21 " InSwitches="" Positions="" 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="20" Start="S0202_16" End="S0112_11" Change="null" Color="SignalGreen" Direction="DIRUP" Incoming="T0202_16 " In="T0114_14 T0112_13 T0110_11 " Leaving="ST0108_35(W01018_9) " InSwitches="" Positions="" 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="21" Start="S0203_17" End="S0301_19" Change="null" Color="SignalGreen" Direction="DIRDOWN" Incoming="T0205_19 " In="T0207_21 T0301_23 " Leaving="ST0301_33(W0301_7) " InSwitches="" Positions="" 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="22" Start="S0204_18" End="S0202_16" Change="null" Color="SignalGreen" Direction="DIRUP" Incoming="T0206_20 " In="T0204_18 T0202_16 " Leaving="T0114_14 " InSwitches="" Positions="" 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="23" Start="S0301_19" End="S0306_22" Change="null" Color="SignalYellow" Direction="DIRDOWN" Incoming="T0301_23 " In="ST0301_33(W0301_7) ST0302_34(W0302_8) T0304_25 " Leaving="" InSwitches="DW0301_7 DW0302_8 " Positions="PosReverse PosReverse " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="24" Start="S0302_20" End="S0204_18" Change="null" Color="SignalGreen" Direction="DIRUP" Incoming="T0302_24 " In="T0208_22 T0206_20 " Leaving="T0204_18 " InSwitches="" Positions="" 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="25" Start="S0304_21" End="S0111_10" Change="null" Color="SignalYellow" Direction="DIRUP" Incoming="T0304_25 " In="ST0302_34(W0302_8) ST0301_33(W0301_7) T0301_23 T0207_21 T0205_19 T0203_17 T0201_15 T0111_12 T0109_10 " Leaving="ST0107_32(W0107_6) " InSwitches="DW0302_8 DW0301_7 " Positions="PosReverse PosReverse " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="26" Start="S0304_21" End="S0302_20" Change="null" Color="SignalGreen" Direction="DIRUP" Incoming="T0304_25 " In="ST0302_34(W0302_8) T0302_24 " Leaving="T0208_22 " InSwitches="DW0302_8 " Positions="PosNormal " 
+	IncomingDoors="" InDoors="" Relays="" />
+  <Route ID="27" Start="S1014_23" End="S0306_22" Change="null" Color="SignalGreen" Direction="DIRDOWN" Incoming="T0110_11 " In="T0112_13 T0114_14 T0202_16 T0204_18 T0206_20 T0208_22 T0302_24 ST0302_34(W0302_8) T0304_25 " Leaving="" InSwitches="DW0302_8 " Positions="PosNormal " 
+	IncomingDoors="" InDoors="" Relays="" />
+</RouteCreator>

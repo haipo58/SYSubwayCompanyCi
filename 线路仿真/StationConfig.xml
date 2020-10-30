@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StationProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <联锁区名称>沈阳地铁</联锁区名称>
+  <联锁区ID>0</联锁区ID>
+  <分辨率>
+    <X>3840</X>
+    <Y>1080</Y>
+  </分辨率>
+  <直线长度>100</直线长度>
+  <直线厚度>3</直线厚度>
+  <道岔角度>45</道岔角度>
+  <道岔长度>100</道岔长度>
+  <直股长度>25</直股长度>
+  <区段长度>120</区段长度>
+  <股道长度>80</股道长度>
+  <斜股高度>25</斜股高度>
+  <地铁模式>true</地铁模式>
+  <按名称排序>true</按名称排序>
+  <双向站台>true</双向站台>
+</StationProperty>

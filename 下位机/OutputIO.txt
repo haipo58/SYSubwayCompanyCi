@@ -1,0 +1,17 @@
+0                       1                       2                       3                       4                       5                       
+S0101        0 LXJ   0 |S0109        8 LXJ   0 |S0301       19 ZXJ   0 |W0104        3 DCJ   0 |W0302        8 FCJ   0 |XGJ_PSD1    53 PSCJ  0 |
+S0102        1 LXJ   1 |S0109        8 ZXJ   1 |S0301       19 YXJ   1 |W0104        3 FCJ   1 |W0302        8 SJ    1 |null         0 null  1 |
+S0103        2 LXJ   2 |S0109        8 YXJ   2 |S0302       20 LXJ   2 |W0104        3 SJ    2 |W01018       9 DCJ   2 |null         0 null  2 |
+S0104        3 LXJ   3 |S0110        9 LXJ   3 |S0304       21 LXJ   3 |W0105        4 DCJ   3 |W01018       9 FCJ   3 |null         0 null  3 |
+S0105        4 LXJ   4 |S0110        9 YXJ   4 |S0304       21 ZXJ   4 |W0105        4 FCJ   4 |W01018       9 SJ    4 |null         0 null  4 |
+S0105        4 ZXJ   5 |S0111       10 LXJ   5 |S0304       21 YXJ   5 |W0105        4 SJ    5 |DXGY_PSD0   48 PSOJ  5 |null         0 null  5 |
+S0105        4 YXJ   6 |S0111       10 YXJ   6 |S1014       23 LXJ   6 |W0106        5 DCJ   6 |DXGY_PSD0   48 PSCJ  6 |null         0 null  6 |
+S0106        5 LXJ   7 |S0112       11 LXJ   7 |W0101        0 DCJ   7 |W0106        5 FCJ   7 |BSL_PSD0    49 PSOJ  7 |null         0 null  7 |
+S0106        5 ZXJ   8 |S0112       11 ZXJ   8 |W0101        0 FCJ   8 |W0106        5 SJ    8 |BSL_PSD0    49 PSCJ  8 |null         0 null  8 |
+S0106        5 YXJ   9 |S0112       11 YXJ   9 |W0101        0 SJ    9 |W0107        6 DCJ   9 |XGJ_PSD0    50 PSOJ  9 |null         0 null  9 |
+S0107        6 LXJ  10 |S0113       12 LXJ  10 |W0102        1 DCJ  10 |W0107        6 FCJ  10 |XGJ_PSD0    50 PSCJ 10 |null         0 null 10 |
+S0107        6 ZXJ  11 |S0201       15 LXJ  11 |W0102        1 FCJ  11 |W0107        6 SJ   11 |DXGY_PSD1   51 PSOJ 11 |null         0 null 11 |
+S0107        6 YXJ  12 |S0202       16 LXJ  12 |W0102        1 SJ   12 |W0301        7 DCJ  12 |DXGY_PSD1   51 PSCJ 12 |null         0 null 12 |
+S0108        7 LXJ  13 |S0203       17 LXJ  13 |W0103        2 DCJ  13 |W0301        7 FCJ  13 |BSL_PSD1    52 PSOJ 13 |null         0 null 13 |
+S0108        7 ZXJ  14 |S0204       18 LXJ  14 |W0103        2 FCJ  14 |W0301        7 SJ   14 |BSL_PSD1    52 PSCJ 14 |null         0 null 14 |
+S0108        7 YXJ  15 |S0301       19 LXJ  15 |W0103        2 SJ   15 |W0302        8 DCJ  15 |XGJ_PSD1    53 PSOJ 15 |null         0 null 15 |
