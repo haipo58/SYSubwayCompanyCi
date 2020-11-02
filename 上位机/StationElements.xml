@@ -280,12 +280,12 @@
       <Graphic Type="Line" Point0="0,0" Point1="100,0" />
     </Graphics>
   </Section>
-  <Section LogicCount="2" Distance="120" Direction="Upward" ID="8" NamePoint="35,5" StationID="0" Name="T0107" TopLeft="950,450" RotatePoint="0,0" Angle="0">
+  <Section LogicCount="1" Distance="120" Direction="Upward" ID="8" NamePoint="35,5" StationID="0" Name="T0107" TopLeft="950,450" RotatePoint="0,0" Angle="0">
     <Graphics>
       <Graphic Type="Line" Point0="0,0" Point1="100,0" />
     </Graphics>
   </Section>
-  <Section LogicCount="2" Distance="120" Direction="Upward" ID="9" NamePoint="35,5" StationID="0" Name="T0108" TopLeft="950,250" RotatePoint="0,0" Angle="0">
+  <Section LogicCount="1" Distance="120" Direction="Upward" ID="9" NamePoint="35,5" StationID="0" Name="T0108" TopLeft="950,250" RotatePoint="0,0" Angle="0">
     <Graphics>
       <Graphic Type="Line" Point0="0,0" Point1="100,0" />
     </Graphics>
@@ -315,12 +315,12 @@
       <Graphic Type="Line" Point0="0,0" Point1="100,0" />
     </Graphics>
   </Section>
-  <Section LogicCount="2" Distance="120" Direction="Upward" ID="15" NamePoint="35,5" StationID="0" Name="T0201" TopLeft="1650,450" RotatePoint="0,0" Angle="0">
+  <Section LogicCount="1" Distance="120" Direction="Upward" ID="15" NamePoint="35,5" StationID="0" Name="T0201" TopLeft="1650,450" RotatePoint="0,0" Angle="0">
     <Graphics>
       <Graphic Type="Line" Point0="0,0" Point1="100,0" />
     </Graphics>
   </Section>
-  <Section LogicCount="2" Distance="120" Direction="Upward" ID="16" NamePoint="35,5" StationID="0" Name="T0202" TopLeft="1650,250" RotatePoint="0,0" Angle="0">
+  <Section LogicCount="1" Distance="120" Direction="Upward" ID="16" NamePoint="35,5" StationID="0" Name="T0202" TopLeft="1650,250" RotatePoint="0,0" Angle="0">
     <Graphics>
       <Graphic Type="Line" Point0="0,0" Point1="100,0" />
     </Graphics>
@@ -355,12 +355,12 @@
       <Graphic Type="Line" Point0="0,0" Point1="100,0" />
     </Graphics>
   </Section>
-  <Section LogicCount="2" Distance="120" Direction="Upward" ID="23" NamePoint="35,5" StationID="0" Name="T0301" TopLeft="2050,450" RotatePoint="0,0" Angle="0">
+  <Section LogicCount="1" Distance="120" Direction="Upward" ID="23" NamePoint="35,5" StationID="0" Name="T0301" TopLeft="2050,450" RotatePoint="0,0" Angle="0">
     <Graphics>
       <Graphic Type="Line" Point0="0,0" Point1="100,0" />
     </Graphics>
   </Section>
-  <Section LogicCount="2" Distance="120" Direction="Upward" ID="24" NamePoint="35,5" StationID="0" Name="T0302" TopLeft="2050,250" RotatePoint="0,0" Angle="0">
+  <Section LogicCount="1" Distance="120" Direction="Upward" ID="24" NamePoint="35,5" StationID="0" Name="T0302" TopLeft="2050,250" RotatePoint="0,0" Angle="0">
     <Graphics>
       <Graphic Type="Line" Point0="0,0" Point1="100,0" />
     </Graphics>
